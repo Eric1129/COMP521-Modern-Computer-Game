@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{05DEA81C-10D1-70E2-AC00-489C091764D1}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Agent.cs">
+    <Files>
+      <File FileName="Assets/Scripts/AgentController.cs" Line="100" Column="14" />
+      <File FileName="Assets/Scripts/Agent.cs" Line="92" Column="53" />
+      <File FileName="Assets/Scripts/ReducedVisibilityGraph.cs" Line="101" Column="28" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="COMP521_A3" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Agent.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0d072249-9c43-49c3-aa3e-e0c19d0133ce" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

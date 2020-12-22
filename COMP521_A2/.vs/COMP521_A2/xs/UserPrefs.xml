@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{797F3F31-1385-13F7-543D-C9F55F823836}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Cannonball.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Cannonball.cs" Line="185" Column="21" />
+      <File FileName="Assets/Scripts/CannonManager.cs" />
+      <File FileName="Assets/Scripts/Balloon.cs" />
+      <File FileName="Assets/Scripts/Wind.cs" />
+      <File FileName="Assets/Scripts/PerlinNoise.cs" />
+      <File FileName="Assets/Scripts/Manager.cs" />
+      <File FileName="Assets/Scripts/Generator.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="COMP521_A2" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Cannonball.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="20293c92-b7c7-45dd-805b-1cdc4a61e23a" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

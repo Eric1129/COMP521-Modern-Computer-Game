@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{C9E40FBE-30C1-D93B-2D03-778ED8B886CE}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/EnvironmentController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Mice.cs" Line="209" Column="38" />
+      <File FileName="Assets/Scripts/EnvironmentController.cs" Line="165" Column="37" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="COMP521_A4" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="FirstPersion AIO Pack" expanded="True">
+                <Node name="FirstPersonAIO" expanded="True" />
+              </Node>
+              <Node name="Scripts" expanded="True">
+                <Node name="EnvironmentController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="754cb4c8-9ee9-48e9-9060-3df0d46b12b2" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
